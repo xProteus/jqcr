@@ -1,0 +1,2 @@
+# jqcr
+jq for Chrome
